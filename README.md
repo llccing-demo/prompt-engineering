@@ -91,5 +91,59 @@ Examples:
 
 ## Using Productivity Prompts
 
+### Productivity Prompts Overview
+
+- Eduction
+- Corporate training
+- Assessment and evaluation
+- E-learning and instructional technology
+- Creative industries
+- Research and data analysis
+
+
+### Enhancing English Language Skills
+
+- Translation prompts
+- Vocabulary prompts
+- Grammar prompts
+- Writing style enhancement
+
+### Empowering Teachers
+
+- Creating outlines
+  - Planning for a course
+  - Planning for lessons
+  - Creating slides
+- Suggesting discussion topics
+- Creating assessments
+
+### Spreadsheet Expert
+
+- Data analysis and management
+- Financial planning and budgeting
+- Project management
+
+### Empowering advertisers
+
+- brainstorming and ideation
+- Customer feedback surveys
+- Persona creation
+
+### Digital Product Creator
+
+### Human Resources Consultant
+
+### Social Media Manager
+
+### SEO Specialist
+
+### Web Developer
+
+### Saas Product Developer
+
+### Learning to Code
+
+
+
 ## Using Prompt for Personal Growth
 
