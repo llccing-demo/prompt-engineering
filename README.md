@@ -131,18 +131,58 @@ Examples:
 
 ### Digital Product Creator
 
+- Idea generation
+- User research
+- Product strategy and planning
+
 ### Human Resources Consultant
+
+- Recruitment and selection
+- Employee relations
+- Policy development
+- Training and development
+- Performance management
 
 ### Social Media Manager
 
+- Brand consistency
+- Audience engagement
+- Reputation management
+- Data analysis
+- Social media advertising
+
+
 ### SEO Specialist
+
+- Keyword research
+- On-page optimization
+- Technical SEO
+- Content development
+- Link building
+- Performance analysis
+
 
 ### Web Developer
 
+- Front-end developer
+- Back-end developer
+- Full-stack developer
+
+
 ### Saas Product Developer
+
+- Requirement analysis
+- Software design
+- Coding and development
+
 
 ### Learning to Code
 
+- Learning a new language from scratch
+- Basic problem-solving
+- Quick explanations
+- Explanation and feedback
+- Code translation
 
 
 ## Using Prompt for Personal Growth
