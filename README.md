@@ -187,3 +187,30 @@ Examples:
 
 ## Using Prompt for Personal Growth
 
+### Personal Growth Prompts Overview
+
+- Students
+- Parents
+- Freelancers
+- Social media influencers
+
+### Interview Preparation
+
+- Research and information
+- Behavioral questions
+- Technical questions
+- Feedback
+
+
+### Empowering Students
+
+### Parenting Aid
+
+### Social Media: YouTuber, Twitter Influencer, Instagram Influencer
+
+### Freelancer
+
+
+## Link
+
+https://www.educative.io/courses/all-you-need-to-know-about-prompt-engineering/personal-growth-prompts-overview
