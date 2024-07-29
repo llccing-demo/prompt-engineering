@@ -204,13 +204,38 @@ Examples:
 
 ### Empowering Students
 
+- Learning assistance
+- Skill development
+- Career guidance
+- Self-reflection
+
+
 ### Parenting Aid
+
+- Information and advice
+- Educational support
+- Engaging activities
+- Personal development
+
 
 ### Social Media: YouTuber, Twitter Influencer, Instagram Influencer
 
+- Creating content
+- Building a community
+- Expanding influence
+- Dealing with criticism
+
+
 ### Freelancer
 
+- Job opportunities
+- Time management
+- Professional advice
 
-## Link
+## Summary
+
+总结一句话，AI可以在生活的方方面面帮助到我们，你将问题描述好，他可以作为一个经验丰富的导师指引着你慢慢按步骤去解决问题。
+
+**Link**
 
 https://www.educative.io/courses/all-you-need-to-know-about-prompt-engineering/personal-growth-prompts-overview
